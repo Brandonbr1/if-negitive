@@ -8,7 +8,7 @@ it is simlar [is-even](https://github.com/samuelmarina/is-even/) just that it do
 
 ## How to use it
 ```js
-var ifeven = require('@Brandonbr1/is-negitive');
+var ifeven = require('@if-negitive@1.0.1');
 
 isnegitive(1); //false
 isnegitive(2); //true
