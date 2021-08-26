@@ -1,0 +1,22 @@
+{
+  "name": "if-negitive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brandonbr1/if-negitive.git"
+  },
+  "keywords": [
+    "negitive"
+  ],
+  "author": "Brandonbr1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Brandonbr1/if-negitive/issues"
+  },
+  "homepage": "https://github.com/Brandonbr1/if-negitive#readme"
+}
