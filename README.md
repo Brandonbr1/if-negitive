@@ -16,5 +16,3 @@ isnegitive(3); //false
 // And so on
 ```
 
-
-"# if-negitive" 
